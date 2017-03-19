@@ -1,5 +1,5 @@
 {
-    "name": "redbeards/crew/encryption",
+    "name": "redbeards/crew-encryption",
     "type": "library",
     "require": {
         "php": ">=7.0.0"
